@@ -1,0 +1,1 @@
+/home/khansa/workspace/Rust/rust-101/target/debug/rust-examples: /home/khansa/workspace/Rust/rust-101/src/main.rs /home/khansa/workspace/Rust/rust-101/src/part00.rs /home/khansa/workspace/Rust/rust-101/src/part01.rs /home/khansa/workspace/Rust/rust-101/src/part02.rs /home/khansa/workspace/Rust/rust-101/src/part03.rs
